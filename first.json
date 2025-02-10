@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 78.7,
+        "lat": 67
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 269.86,
+        "feels_like": 263.63,
+        "temp_min": 269.86,
+        "temp_max": 269.86,
+        "pressure": 1003,
+        "humidity": 96,
+        "sea_level": 1003,
+        "grnd_level": 1000
+    },
+    "visibility": 400,
+    "wind": {
+        "speed": 5.81,
+        "deg": 276,
+        "gust": 10.4
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1739182648,
+    "sys": {
+        "country": "RU",
+        "sunrise": 1739157424,
+        "sunset": 1739184115
+    },
+    "timezone": 18000,
+    "id": 1489853,
+    "name": "Tazovsky",
+    "cod": 200
+}
